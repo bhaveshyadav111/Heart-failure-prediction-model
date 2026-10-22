@@ -17,7 +17,7 @@
 
 • Decision Tree → 82.00%
 
-• Random Forest → 89.33% (Best Performance)
+• Random Forest → 89.33% & 94.65% (Best Performance)
 
 Random Forest outperformed other models due to its ability to handle non-linearity and reduce overfitting through ensemble learning.
 
